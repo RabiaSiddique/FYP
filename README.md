@@ -1,6 +1,6 @@
 # carbon_quiz_app
 
-A new Flutter project.
+A new Flutter project consisting of a quiz application.
 
 ## Getting Started
 
