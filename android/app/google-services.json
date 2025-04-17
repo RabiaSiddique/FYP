@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575765203466",
+    "project_id": "fyp1-95216",
+    "storage_bucket": "fyp1-95216.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575765203466:android:933dfba73ec719b39a2df3",
+        "android_client_info": {
+          "package_name": "com.example.carbon_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmL2RiGXG8Nv8Lpkr2AOixM5mKy_KMktk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
